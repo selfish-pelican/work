@@ -1,1 +1,1 @@
-This is a repository for work related things. Nothing interestin here.
+This is a repository for work related things. Nothing interesting here.
